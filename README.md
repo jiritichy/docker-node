@@ -6,4 +6,5 @@ Includes:
 
 *Includes:*
 * Node 20.x
+* Ruby 2.6
 * Python 3
