@@ -4,5 +4,6 @@ Docker container description for static website build.
 
 Includes:
 
-Node 18.x
-Python 3
+*Includes:*
+* Node 18.x
+* Python 3
